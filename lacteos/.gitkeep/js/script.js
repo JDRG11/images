@@ -1,0 +1,4 @@
+
+
+    window.silex = window.silex || {}
+    window.silex.data = {"site":{"width":1287},"pages":[{"id":"page-design","displayName":"Design","link":{"linkType":"LinkTypePage","href":"#!page-design"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-photo","displayName":"Photo","link":{"linkType":"LinkTypePage","href":"#!page-photo"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-code","displayName":"Code","link":{"linkType":"LinkTypePage","href":"#!page-code"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-lacteos","displayName":"Lacteos","link":{"linkType":"LinkTypePage","href":"#!page-lacteos"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false}]}
